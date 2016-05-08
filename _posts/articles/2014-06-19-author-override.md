@@ -7,6 +7,7 @@ tags: [sample-post, readability, test]
 author: billy_rick
 comments: true
 share: true
+published: false
 image:
   feature: so-simple-sample-image-7.jpg
   credit: WeGraphics
