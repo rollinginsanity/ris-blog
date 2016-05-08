@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
+title: Blog of +1 Blogging
 locale: en_US
-description: Describe your website here.
+description: Random thoughts from my head to yours.
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -48,13 +48,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: Reece
   avatar: bio-photo.jpg
-  email: you@email.com
+  email: reece@reecepa.in
   disqus-shortname:
-  twitter: #username
+  twitter: rollinginsanity
   facebook: #username
-  github: #username
+  github: rollinginsanity
   stackexchange: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
